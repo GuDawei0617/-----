@@ -82,6 +82,7 @@
     .heading,
     .container,
     .footing{
+        margin-top: 10px;
         width: 400px;
     }
  
@@ -102,7 +103,6 @@
     }
  
     .container{
-        margin-top: 10px;
         height: 420px;
     }
 }
